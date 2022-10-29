@@ -2,6 +2,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+<h1 align="center">Prabesh Mainali</h1>
+<h3 align="center">Backend Developer</h3>
 
 <div id="badges" align="center" >
   <a href="[your-linkedin-URL](https://www.linkedin.com/in/prabesh-mainali-498791203/)">
