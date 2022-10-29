@@ -18,7 +18,11 @@
 <div id= "skills">
  <h3 align="left">Tech Stack: </h3>
 <p align="left"> 
-  <a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a>
+  <a  target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" width="40" height="40"/>
+  </a>
+  
+    <a target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/>
+  </a>
 
   </p>
   </div>
