@@ -21,10 +21,10 @@
     <a href="https://nodejs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> </a><a href="https://nodejs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="nodejs" width="40" height="40"/> </a><a href="https://nodejs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" alt="nodejs" width="40" height="40"/> </a>
   <a href="https://nodejs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="nodejs" width="40" height="40"/> </a>
   <a href="https://nodejs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="nodejs" width="40" height="40"/> </a>
-
-  
-  </p>
+</p>
   </div>
+  
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PrabeshIO" alt="PrabeshIO" /></a> </p>
 <!--
 **PrabeshIO/PrabeshIO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
