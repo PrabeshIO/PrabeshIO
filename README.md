@@ -22,6 +22,9 @@
   <a href="https://nodejs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="nodejs" width="40" height="40"/> </a>
   <a href="https://nodejs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="nodejs" width="40" height="40"/> </a>
   
+    <a href="https://nodejs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-icon.svg" alt="nodejs" width="40" height="40"/> </a>
+  
+    <a href="https://nodejs.org" target="_blank"> <img src="https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png" alt="nodejs" width="40" height="40"/> </a>
   
   </p>
   </div>
