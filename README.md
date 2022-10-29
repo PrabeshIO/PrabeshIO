@@ -14,7 +14,7 @@
   </a>
     </a>
 </div>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PrabeshIO&label=Profile%20views&color=00FF00&style=flat" alt="prabeshIO" /> </p>
 <div id= "skills">
  <h3 align="left">Tech Stack: </h3>
 <p align="left"> 
