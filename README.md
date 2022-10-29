@@ -19,6 +19,9 @@
  <h3 align="left">Tech Stack: </h3>
 <p align="left"> 
     <a href="https://nodejs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> </a><a href="https://nodejs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="nodejs" width="40" height="40"/> </a><a href="https://nodejs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" alt="nodejs" width="40" height="40"/> </a>
+  <a href="https://nodejs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="nodejs" width="40" height="40"/> </a>
+  <a href="https://nodejs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="nodejs" width="40" height="40"/> </a>
+  <a href="https://nodejs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="nodejs" width="40" height="40"/> </a>
   
   </p>
   </div>
