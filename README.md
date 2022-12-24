@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/yx5CGBdwXdCbjEf6li/giphy.gif" width="150" height="100"/>
 </div>
 <h1 align="center">Prabesh Mainali</h1>
-<h3 align="center">Backend Developer</h3>
+<h3 align="center">Software Developer</h3>
 
 <div id="badges" align="center" >
   <a href="https://www.linkedin.com/in/prabesh-mainali-498791203/">
