@@ -14,8 +14,6 @@
   </a>
     </a>
 </div>
-  
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PrabeshIO" alt="PrabeshIO" /></a> </p>
 <!--   
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PrabeshIO&show_icons=true&locale=en&layout=compact" alt="PrabeshIO" /></p> -->
 <!--
